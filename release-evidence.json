@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-02",
+  "contentCommit": "a65694e19a6381db48dcf320a06cfaf5c2056f2a",
+  "repository": "https://github.com/russell0/SeaScout-support",
+  "verification": "Each public URL returned HTTP 200 and byte-for-byte matched the committed HTML after deployment. HTML parsed, local links resolved, and git diff --check passed.",
+  "pages": [
+    {"url": "https://russell0.github.io/SeaScout-support/", "sha256": "7f60742109e64cb701914bd4fedb72c1fdb9fb8af9ec1a8e206234b958ca859e"},
+    {"url": "https://russell0.github.io/SeaScout-support/privacy.html", "sha256": "2822d4980ed9786f377e3dcb7ea72af7e0b82050423da0c6d709d9b7d621f854"},
+    {"url": "https://russell0.github.io/SeaScout-support/terms.html", "sha256": "5616e6e5d2ae2059ae38a54a0eba5d61a85a252d8d0a7a40f67ba22127f747d1"},
+    {"url": "https://russell0.github.io/SeaScout-support/delete-account.html", "sha256": "3d6c69a192376cc4dd77710dd702e8c5da00401802621c4d14c4ca1af0239742"}
+  ],
+  "policyScope": "SeaScout 1.0 processes location and saved points on the user's devices, uses paired WatchConnectivity transfer and Apple MapKit services, has no developer backend or public sharing, and provides local deletion and support contact information.",
+  "retainedLimitations": "Reference catalogue records do not enable navigation; charted points have pending independent geographic and field review; no underwater GPS, dive-computer functionality, safe-route promise, live boat tracking, official chart status, or guaranteed offline basemap.",
+  "appStoreApprovalClaimed": false
+}
